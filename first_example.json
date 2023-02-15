@@ -1,0 +1,33 @@
+﻿{
+    "msg" : "uma mensagem qualquer",
+    "msg1" : "uma mensagem qualquer",
+    "msg2" : "uma mensagem qualquer",
+    "msg3" : "uma mensagem qualquer",
+    "msg4" : {
+        "msg" : "uma mensagem qualquer",
+        "msg1" : "uma mensagem qualquer",
+        "msg2" : {
+            "msg" : "uma mensagem qualquer",
+            "msg1" : "uma mensagem qualquer",
+            "msg2" : "uma mensagem qualquer"
+        }
+    },
+    "msg5" : "uma mensagem qualquer",
+    "msg6" : "uma mensagem qualquer",
+    "msg7" : "uma mensagem qualquer",
+    "msg8" : "uma mensagem qualquer",
+    "msg9" : "uma mensagem qualquer",
+    "msg10" : "uma mensagem qualquer",
+    "msg11" : "uma mensagem qualquer",
+    "msg12" : "uma mensagem qualquer",
+    "msg13" : "uma mensagem qualquer",
+    "msg14" : {
+        "msg" : "uma mensagem qualquer",
+        "msg1" : "uma mensagem qualquer",
+        "msg2" : {
+            "msg" : "uma mensagem qualquer",
+            "msg1" : "uma mensagem qualquer",
+            "msg2" : "uma mensagem qualquer"
+        }
+    }
+}
